@@ -26,4 +26,4 @@ requires:
 resources:
   license: http://dev.perl.org/licenses/
   repository: git://github.com/motemen/Script-State.git
-version: 0.02
+version: 0.03
